@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be applying Transfer Learning to solve very famous Food Vision 101 challenge of Image Classification using EfficientNet-V2 and ResNet-50 V2.** <br>
+**In this project we'll be applying Transfer Learning to solve very famous Food Vision 101 challenge of Image Classification using EfficientNet-V2 and ResNet-50 V2.** <br></br>
 
 **Let's looks into dataset:** <br></br>
 
