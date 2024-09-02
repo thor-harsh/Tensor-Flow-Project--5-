@@ -30,7 +30,7 @@ Classification is a supervised machine learning process of categorizing a given 
 A convolutional neural network (CNN) in TensorFlow is a type of artificial neural network that uses deep learning to process and recognize images. CNNs are a key technique in computer vision and are used in many applications, including face recognition and driverless vehicles.<br></br>
 
 
-**Important Note: Before Jumping to the code go through the Food Vision 101 dataset by clicking on this link (https://www.tensorflow.org/datasets/catalog/food101) to learn more. For more info. about transfer learning models used here go to (https://www.tensorflow.org/api_docs/python/tf/keras/applications/ResNet50V2) for ResNet50V2 to learn more about that and go to (https://arxiv.org/abs/2104.00298) to know about EfficientNet-V2.**
+**Important Note: Before Jumping to the code go through the Food Vision 101 dataset by clicking on this link (https://www.tensorflow.org/datasets/catalog/food101) to learn more. For more information about transfer learning models used here go to (https://www.tensorflow.org/api_docs/python/tf/keras/applications/ResNet50V2) for ResNet50V2 to learn more about that and go to (https://arxiv.org/abs/2104.00298) to know about EfficientNet-V2.**
 
 </table>
 
